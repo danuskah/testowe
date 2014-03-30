@@ -9,4 +9,4 @@ testowe
 2. Punkt drugi
 3. Punkt trzeci
 
-[http://www.wp.pl] (www.onet.pl "Polecam Stronę wp")
+[http://www.wp.pl] (http://www.onet.pl "Polecam Stronę wp")
